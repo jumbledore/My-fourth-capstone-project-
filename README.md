@@ -13,7 +13,7 @@ Dataset consists of 3,168 recorded voice samples, collected from male and female
 - Both models have an F1 score of higher than 0.7; both models used will be good to help distinguish voice gender based on voice and speech data.
 - CNN has a higher precision, recall and F1 score of 0.98; for the purpose of the data used, it is a better model.
 
-### Addtional work done (convereting data into a picture and using CNN model for gender voice recongition)
+### Addtional work done (convereting data into a picture and using CNN model for gender voice recognition)
 
 #Original data
 ![Screenshot of original data](https://private-user-images.githubusercontent.com/123168272/297283699-8e061c22-5914-4b00-9c5c-0009eabf14f7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU0NzQwMjQsIm5iZiI6MTcwNTQ3MzcyNCwicGF0aCI6Ii8xMjMxNjgyNzIvMjk3MjgzNjk5LThlMDYxYzIyLTU5MTQtNGIwMC05YzVjLTAwMDllYWJmMTRmNy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDExN1QwNjQyMDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hMjE0OTlkNTJjZDgyYjMxNTk0MzMyNTNkNjgwMzQ5ZWEzNzkyY2E1ZmI5ZWQ1OGUwMGMxZmUzMWQyNWVkYWY5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.bG4SKcVrbfM2_BpVmD0GupkbsLWzGVOjuLciuL0oAvc)
@@ -35,8 +35,8 @@ The above data has 20 columns. To make it into a picture, we have to make the da
 
 
 #### Insights
--Data presented in a picture using CNN model (X) has a slightly lower F1 score compared to CNN model trained on raw data; this is due to additional inputs of empty data that has no correlation.
--X still has a high F1 score of 0.97 which meant that the model is also useful in helping to distinguish gender based on data presented in a picture.
--Based on the F1 scores of all 3 models, it strongly suggests that male and female voice can be distinguished based on the data provided.
+- Data presented in a picture using CNN model (X) has a slightly lower F1 score compared to CNN model trained on raw data; this is due to additional inputs of empty data that has no correlation.
+- X still has a high F1 score of 0.97 which meant that the model is also useful in helping to distinguish gender based on data presented in a picture.
+- Based on the F1 scores of all 3 models, it strongly suggests that male and female voice can be distinguished based on the data provided.
 
 [Link to LinkedIn](https://www.linkedin.com/in/jeremy-tay-116124139/)
