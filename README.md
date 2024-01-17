@@ -1,4 +1,4 @@
-# My forth capstone project
+# My fourth capstone project
 
 ### Gender voice recognition by voice and speech analysis
 
