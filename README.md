@@ -2,7 +2,7 @@
 
 ### Gender voice recognition by voice and speech analysis
 
-![Screenshot of results]([https://github.com/jumbledore/My-fourth-capstone-project-/issues/1](https://github.com/jumbledore/My-fourth-capstone-project-/issues/1#issue-2085487086))
+![Screenshot of results](https://github.com/jumbledore/My-fourth-capstone-project-/issues/1](https://github.com/jumbledore/My-fourth-capstone-project-/issues/1#issue-2085487086)
 
 #### Description of dataset
 
