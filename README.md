@@ -2,7 +2,7 @@
 
 ### Gender voice recognition by voice and speech analysis
 
-![Screenshot of results](https://github.com/jumbledore/My-fourth-capstone-project-/issues/1](https://github.com/jumbledore/My-fourth-capstone-project-/issues/1#issue-2085487086)
+![Screenshot of results]([https://github.com/jumbledore/My-fourth-capstone-project-/issues/1](https://github.com/jumbledore/My-fourth-capstone-project-/issues/1#issue-2085487086](https://private-user-images.githubusercontent.com/123168272/297281694-70a7bfc1-ce42-49a1-96ad-5bfd17f88dea.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU1NzA1MzIsIm5iZiI6MTcwNTU3MDIzMiwicGF0aCI6Ii8xMjMxNjgyNzIvMjk3MjgxNjk0LTcwYTdiZmMxLWNlNDItNDlhMS05NmFkLTViZmQxN2Y4OGRlYS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDExOFQwOTMwMzJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03MDk0ZWU1OTY5YjRjZjhlNjllZTJkNWQ0OGQ4NTZjNTk0M2JhZjYzMGZmZjYxZjQwMmRjZjIyZDQwYmQ2Y2FhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.q6zj0XMjAeyFFd1kAOHb5slROkUpeJbLRJJg8vgNjS0))
 
 #### Description of dataset
 
