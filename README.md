@@ -1,6 +1,6 @@
 # My fourth capstone project
 
-### Gender voice recognition by voice and speech analysis
+### Gender voice recognition by voice and speech analysis (a comprison between MLP and CNN)
 
 ![Screenshot of dashboard](https://github.com/jumbledore/My-fourth-capstone-project-/assets/123168272/fdb3c412-9ab2-4d73-9742-7f5010ffe0eb)
 
